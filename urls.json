@@ -1,0 +1,12 @@
+{
+    "urls": [
+        {
+            "base_url": "/go",
+            "redirect_url": "https://golang.org"
+        },
+        {
+            "base_url": "/google",
+            "redirect_url": "https://google.com"
+        }
+    ]
+}
